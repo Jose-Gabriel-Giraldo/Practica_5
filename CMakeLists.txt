@@ -23,6 +23,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(Practica_5
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        particula.h particula.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Practica_5 APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
