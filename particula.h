@@ -14,6 +14,7 @@ public:
     int getId() const;
     void mover(double dt);
     bool rebotarParedes(double ancho, double alto);
+    const char* chocarObstaculo(double ox, double oy, double lado, double e);
     void escribir(std::ostream& out, double t) const;
 };
 
