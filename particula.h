@@ -23,8 +23,4 @@ public:
     void escribir(std::ostream& out, double t) const;
 };
 
-<<<<<<< HEAD
 #endif
-=======
-#endif
->>>>>>> origin/particula
