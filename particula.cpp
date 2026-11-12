@@ -72,4 +72,8 @@ void Particula::fusionar(const Particula& otra) {
 
 void Particula::escribir(std::ostream& out, double t) const {
     out << t << ' ' << id << ' ' << x << ' ' << y << ' ' << r << '\n';
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/particula
