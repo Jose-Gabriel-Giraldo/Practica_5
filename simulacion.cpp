@@ -36,6 +36,19 @@ void Simulacion::paso(double dt) {
         }
     }
 
+    for (std::size_t i = 0; i < particulas.size(); ++i) {
+        for (std::size_t j = i + 1; j < particulas.size();) {
+            if (particulas[i].tocaA(particulas[j])) {
+                out << "C " << t << " particulas " << particulas[i].getId()
+                << ' ' << particulas[j].getId() << '\n';
+                particulas[i].fusionar(particulas[j]);
+                particulas.erase(particulas.begin() + j);
+            } else {
+                ++j;
+            }
+        }
+    }
+
     for (const Particula& p : particulas) { out << "P "; p.escribir(out, t); }
 }
 
