@@ -5,6 +5,9 @@ Particula::Particula(int id, double x, double y, double vx, double vy, double m,
     : id(id), x(x), y(y), vx(vx), vy(vy), m(m), r(r) {}
 
 int Particula::getId() const { return id; }
+double Particula::getX() const { return x; }
+double Particula::getY() const { return y; }
+double Particula::getR() const { return r; }
 
 void Particula::mover(double dt) {
     x += vx * dt;
@@ -50,6 +53,21 @@ const char* Particula::chocarObstaculo(double ox, double oy, double lado, double
 
     if (std::fabs(nx) >= std::fabs(ny)) return nx < 0 ? "izquierdo" : "derecho";
     return ny < 0 ? "inferior" : "superior";
+}
+
+bool Particula::tocaA(const Particula& otra) const {
+    double dx = x - otra.x, dy = y - otra.y, s = r + otra.r;
+    return dx * dx + dy * dy < s * s;
+}
+
+void Particula::fusionar(const Particula& otra) {
+    double M = m + otra.m;
+    x  = (m * x  + otra.m * otra.x)  / M;
+    y  = (m * y  + otra.m * otra.y)  / M;
+    vx = (m * vx + otra.m * otra.vx) / M;
+    vy = (m * vy + otra.m * otra.vy) / M;
+    r  = std::sqrt(r * r + otra.r * otra.r);
+    m  = M;
 }
 
 void Particula::escribir(std::ostream& out, double t) const {
