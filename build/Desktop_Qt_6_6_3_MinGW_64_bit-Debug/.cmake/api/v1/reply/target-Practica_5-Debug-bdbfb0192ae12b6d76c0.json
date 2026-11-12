@@ -75,13 +75,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 62,
+				"line" : 64,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 45,
+				"line" : 47,
 				"parent" : 0
 			},
 			{
@@ -364,18 +364,20 @@
 			[
 				0,
 				1,
-				2
+				2,
+				6,
+				8
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"id" : "Practica_5_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "Practica_5_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Practica_5_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "Practica_5::@6890427a1f51a3e7e1df",
@@ -487,7 +489,9 @@
 			[
 				0,
 				1,
-				2
+				2,
+				6,
+				8
 			]
 		},
 		{
@@ -495,7 +499,9 @@
 			"sourceIndexes" : 
 			[
 				3,
-				5
+				5,
+				7,
+				9
 			]
 		},
 		{
@@ -503,14 +509,14 @@
 			"sourceIndexes" : 
 			[
 				4,
-				6
+				10
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				7
+				11
 			]
 		}
 	],
@@ -544,6 +550,28 @@
 			"backtrace" : 4,
 			"path" : "mainwindow.ui",
 			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "particula.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "particula.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "simulacion.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "simulacion.cpp",
+			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,

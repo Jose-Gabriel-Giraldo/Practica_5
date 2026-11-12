@@ -2,6 +2,11 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QGraphicsScene>
+#include <QGraphicsEllipseItem>
+#include <QTimer>
+#include <vector>
+#include "Simulacion.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -17,7 +22,15 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+private slots:
+    void actualizar();
+
 private:
     Ui::MainWindow *ui;
+    QGraphicsScene *escena;
+    QTimer *timer;
+    Simulacion sim;
+    std::vector<QGraphicsEllipseItem*> circulos;   // indexado por id
 };
-#endif // MAINWINDOW_H
+
+#endif

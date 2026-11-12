@@ -1,0 +1,56 @@
+# ninja log v6
+19	3461	8155343455427832	Practica_5_autogen/timestamp	bed7a797351c2123
+19	3461	8155343455427832	Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+19	3461	8155343455427832	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/timestamp	bed7a797351c2123
+19	3461	8155343455427832	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+4299	5933	8155343466965005	CMakeFiles/Practica_5.dir/particula.cpp.obj	1022df2a94d1ad98
+4525	6257	8155343469229726	CMakeFiles/Practica_5.dir/simulacion.cpp.obj	4a736aeeacd203cb
+3472	7220	8155343458703543	CMakeFiles/Practica_5.dir/Practica_5_autogen/mocs_compilation.cpp.obj	df9b7f312a99cbcd
+3714	7608	8155343461108734	CMakeFiles/Practica_5.dir/main.cpp.obj	c1b59647eb7db4cc
+3964	7709	8155343463625883	CMakeFiles/Practica_5.dir/mainwindow.cpp.obj	e72ed6d94a38e330
+7709	10266	8155343501076638	Practica_5.exe	323ed7d5c1a21555
+39	2811	8155346051125595	Practica_5_autogen/timestamp	bed7a797351c2123
+39	2811	8155346051125595	Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+39	2811	8155346051125595	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/timestamp	bed7a797351c2123
+39	2811	8155346051125595	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+2814	7064	8155346054301315	CMakeFiles/Practica_5.dir/Practica_5_autogen/mocs_compilation.cpp.obj	df9b7f312a99cbcd
+3081	7160	8155346056959233	CMakeFiles/Practica_5.dir/main.cpp.obj	c1b59647eb7db4cc
+48	2887	8155347029333092	Practica_5_autogen/timestamp	bed7a797351c2123
+48	2887	8155347029333092	Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+48	2887	8155347029333092	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/timestamp	bed7a797351c2123
+48	2887	8155347029333092	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+3943	5994	8155347044091555	CMakeFiles/Practica_5.dir/particula.cpp.obj	1022df2a94d1ad98
+4362	6477	8155347048292330	CMakeFiles/Practica_5.dir/simulacion.cpp.obj	4a736aeeacd203cb
+2889	7229	8155347033557451	CMakeFiles/Practica_5.dir/Practica_5_autogen/mocs_compilation.cpp.obj	df9b7f312a99cbcd
+3437	8070	8155347039034982	CMakeFiles/Practica_5.dir/mainwindow.cpp.obj	e72ed6d94a38e330
+34	1567	8155347830757971	Practica_5_autogen/timestamp	bed7a797351c2123
+34	1567	8155347830757971	Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+34	1567	8155347830757971	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/timestamp	bed7a797351c2123
+34	1567	8155347830757971	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+1570	5243	8155347846139650	CMakeFiles/Practica_5.dir/main.cpp.obj	c1b59647eb7db4cc
+1805	5807	8155347848452169	CMakeFiles/Practica_5.dir/mainwindow.cpp.obj	e72ed6d94a38e330
+5807	8374	8155347888514193	Practica_5.exe	323ed7d5c1a21555
+35	2999	8159534859469018	Practica_5_autogen/timestamp	bed7a797351c2123
+35	2999	8159534859469018	Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+35	2999	8159534859469018	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/timestamp	bed7a797351c2123
+35	2999	8159534859469018	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+4208	5717	8159534875843882	CMakeFiles/Practica_5.dir/particula.cpp.obj	1022df2a94d1ad98
+4453	6076	8159534878304844	CMakeFiles/Practica_5.dir/simulacion.cpp.obj	4a736aeeacd203cb
+3001	7865	8159534863790315	CMakeFiles/Practica_5.dir/Practica_5_autogen/mocs_compilation.cpp.obj	df9b7f312a99cbcd
+3383	8027	8159534867595909	CMakeFiles/Practica_5.dir/main.cpp.obj	c1b59647eb7db4cc
+54	3099	8160452684202326	Practica_5_autogen/timestamp	bed7a797351c2123
+54	3099	8160452684202326	Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+54	3099	8160452684202326	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/timestamp	bed7a797351c2123
+54	3099	8160452684202326	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+3103	10645	8160452687785607	CMakeFiles/Practica_5.dir/Practica_5_autogen/mocs_compilation.cpp.obj	df9b7f312a99cbcd
+3308	10834	8160452689839086	CMakeFiles/Practica_5.dir/main.cpp.obj	c1b59647eb7db4cc
+37	2924	8162029578134977	Practica_5_autogen/timestamp	bed7a797351c2123
+37	2924	8162029578134977	Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+37	2924	8162029578134977	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/timestamp	bed7a797351c2123
+37	2924	8162029578134977	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica_5_autogen/mocs_compilation.cpp	bed7a797351c2123
+3564	5796	8162029588287406	CMakeFiles/Practica_5.dir/particula.cpp.obj	1022df2a94d1ad98
+3775	6143	8162029590380224	CMakeFiles/Practica_5.dir/simulacion.cpp.obj	4a736aeeacd203cb
+2926	8059	8162029581899001	CMakeFiles/Practica_5.dir/Practica_5_autogen/mocs_compilation.cpp.obj	df9b7f312a99cbcd
+3129	8179	8162029583928155	CMakeFiles/Practica_5.dir/main.cpp.obj	c1b59647eb7db4cc
+3319	8906	8162029585826067	CMakeFiles/Practica_5.dir/mainwindow.cpp.obj	e72ed6d94a38e330
+8907	11817	8162029641705770	Practica_5.exe	323ed7d5c1a21555
